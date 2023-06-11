@@ -1,0 +1,13 @@
+Práctica No. ______01_______
+Nombre del alumno: ___Jesús Manuel Juárez Pasillas___
+
+	Pre-Evaluación para prácticas de Laboratorio de Sistemas de Base de Datos 1					
+							                                   PRE-EVALUACIÓN
+                                       							   DEL ALUMNO
+1	CUMPLE CON LA FUNCIONALIDAD SOLICITADA.						Sí
+2	DISPONE DE UN REPORTE CON FORMATO IDC.						Sí
+3	LA INFORMACIÓN DEL REPORTE ESTÁ LIBRE DE ERRORES DE ORTOGRAFÍA.			Sí
+4	SE ENTREGÓ EN TIEMPO Y FORMA LA PRÁCTICA.					Sí
+5	LA PRÁCTICA ESTÁ TOTALMENTE REALIZADA (ESPECIFIQUE EL PORCENTAJE COMPLETADO). 	100%						
+
+Observaciones:
